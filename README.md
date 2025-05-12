@@ -1,6 +1,6 @@
 # Analyzing Car CO₂ Emissions
 
-Overview! 
+## Overview 
 This repository contains a project I worked on to explore and model CO₂ emissions from cars using multiple regression techniques. The idea was to understand what factors—especially fuel type and city mileage—affect emissions and then use that model to predict emissions for a set of shortlisted car models.
 
 ---
